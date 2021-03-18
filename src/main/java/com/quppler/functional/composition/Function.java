@@ -1,5 +1,6 @@
 package com.quppler.functional.composition;
 
+@FunctionalInterface
 public interface Function<T,R> {
 
     R apply(T t);

@@ -1,4 +1,4 @@
-package com.quppler.functionl.chaining;
+package com.quppler.functional.chaining;
 import java.util.Objects;
 
 @FunctionalInterface
