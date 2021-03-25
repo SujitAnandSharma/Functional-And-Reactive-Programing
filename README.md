@@ -5,3 +5,6 @@ Java based Functional and Reactive programing
 2. Composition
 3. Closures
 4. Currying
+
+REACTIVE PROGRAMING
+1.Observable and observer in rx-java
