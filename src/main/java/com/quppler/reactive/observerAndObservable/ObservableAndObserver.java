@@ -13,7 +13,6 @@ import io.reactivex.internal.operators.observable.ObservableCreate;
  * Creating Observable with  methods onNext->Provides data, onComplete->Complete signal, onError-> Error Signal
  * Creating Observer with provided implementation of Observable methods to process data on receiving.
  */
-
 public class ObservableAndObserver {
 
     public static void main(String[] args) {
